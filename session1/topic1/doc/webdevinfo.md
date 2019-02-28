@@ -1,0 +1,3 @@
+Modernizr
+
+Modernizr is a small piece of JavaScript code that automatically detects the availability of next-generation web technologies in your user's browsers. Rather than blacklisting entire ranges of browsers based on “UA sniffing,” Modernizr uses [feature detection](https://modernizr.com/docs#what-is-feature-detection) to allow you to easily tailor your user's experiences based on the *actual capabilities* of their browser.
