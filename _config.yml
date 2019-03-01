@@ -1,7 +1,7 @@
 plugins:
   - jekyll-relative-links
 relative_links:
-  enabled: false
+  enabled: true
   collections: true
 include:
   - CONTRIBUTING.md
@@ -12,3 +12,4 @@ include:
   - CONTRIBUTING.md
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
+  - index.md
