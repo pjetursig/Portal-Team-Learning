@@ -1,2 +1,2 @@
-## Portal Team Training Sessions
+## Portal Learning
 Portal Team Training Sessions
